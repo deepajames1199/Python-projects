@@ -9,6 +9,6 @@ while user == 'y':
     user = input("Roll again by pressing Y/N: ").lower()
 
 
-print("Goodbye") if user == 'n' else print('Invalid input')
+print("Goodbye") if user == 'n' else print('Invalid input ')
 
     
