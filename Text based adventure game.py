@@ -10,7 +10,7 @@ def intro():
     print("One leads to your home and other to hell")
     print("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@")
     time.sleep(2)
-    print("Good Luck with your journey!!!!!!!!!!!")
+    print("Good Luck with your journey!!!!")
 
 def choosepath():
     path = ""
